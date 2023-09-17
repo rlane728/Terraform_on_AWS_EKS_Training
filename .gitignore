@@ -1,2 +1,5 @@
-# Ignore .terraform dirs
+# Ignore .terraform dirs dn files
 **/.terraform/
+**/.terraform/.terraform.lock.hcl
+**/.terraform/terraform.tfstate
+**/.terraform/terraform.tfstate.backup
