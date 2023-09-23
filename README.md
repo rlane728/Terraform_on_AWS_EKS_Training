@@ -2,3 +2,5 @@
 A repository for my personal exercise work while learning Terraform on AWS EKS.
 
 Much of this is copied from the course material, with minor edits and updates. As well as some extensive commenting to help break down the more difficult stuff.
+
+Everything in this repository works as of its commit date unless otherwise noted.
