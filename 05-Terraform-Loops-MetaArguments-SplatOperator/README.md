@@ -13,6 +13,6 @@ I asked chatGPT to explain to me where "instance_types" was coming from and chat
 chatGPT a liar and vowed to never worship it again.
 
 In the end, it turned out that I was referencing the documentation for the "<i>offering</i>" data source, which indeed does NOT
-return instance_types.  However the code was referencing the "<i>offerings</i>" datasource, which does.  So the problem was my brain
+return "instance_types".  However the code was referencing the "<i>offerings</i>" datasource, which does.  So the problem was my brain
 couldn't bridge the gap between the working code and the seemingly wrong reference material.  Once I'd figured it out, everything fell into place.
 
