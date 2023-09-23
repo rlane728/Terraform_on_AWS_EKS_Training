@@ -1,5 +1,5 @@
-### MY NOTES
-### PAY ATTENTION!
+## MY NOTES
+### PAY ATTENTION:  AWS DATA SOURCES
 
 It is important to note here that AWS has two <i>very</i> similarly named datasources, those being:
 - aws_ec2_instance_type_<i>offering</i>: (id) (instance_<i>type</i>)
